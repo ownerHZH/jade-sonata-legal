@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ownerhzh.github.io/jade-sonata-legal/sitemap.xml
